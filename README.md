@@ -36,3 +36,5 @@ This dataset has 3 files as explained below:
 The data is about whether a client has payment difficulties.
 2. 'previous_application.csv' contains information about the client’s previous loan data. It contains the data whether the previous application had been Approved, Cancelled, Refused or Unused offer.
 3. 'columns_description.csv' is data dictionary which describes the meaning of the variables.
+
+Dataset is available in Kaggle - https://www.kaggle.com/gauravduttakiit/loan-defaulter
